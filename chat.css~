@@ -1,0 +1,6 @@
+body{
+	background-color:"#0000ff";
+	background:url(bot.jpg),url(bot1.jpg);
+	background-repeat:no-repeat,no-repeat;
+	background-position:left top,right bottom;	
+}
